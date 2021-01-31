@@ -59,13 +59,13 @@ body {
     font-family: fontRegular;
 }
 
-.btn-container {
+.card-btn-container {
     width: 20%;
     display: flex;
     flex-direction: column;
 }
 
-.btn-container > input {
+.card-btn-container > input {
     margin: 10px;
 }
 .footer {
@@ -103,13 +103,13 @@ body {
         padding: 12px 20px;
     }
 
-    .btn-container {
+    .card-btn-container {
         width: 100%;
         flex-direction: row;
         justify-content: center;
     }
 
-    .btn-container > input {
+    .card-btn-container > input {
         width: 30%;
     }
 }
